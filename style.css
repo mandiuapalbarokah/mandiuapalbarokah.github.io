@@ -4,7 +4,7 @@ h1 {
     position: center;
 }
 nav {
-  background-color: #333;
+  background-color: lightgreen;
 }
 
 nav ul {
@@ -61,7 +61,7 @@ nav a:hover {
 }
 
 #newsletter-form input[type="submit"] {
-  background-color: #113;
+  background-color: lightblue;
   color: white;
   padding: 12px 20px;
   border: none;
